@@ -1,0 +1,18 @@
+.detail{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+.detail img{
+  width: 50%;
+  margin-left: 20px;
+   
+}
+.img-container{
+  margin-bottom: 30px;  
+}
+
+.paragraph{
+    margin-top: 20px;
+}
